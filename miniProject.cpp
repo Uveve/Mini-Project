@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+int a = 0
+
 struct room {
     string jenis;
     int price;
